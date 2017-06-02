@@ -1,0 +1,23 @@
+{
+  "name": "artisbest",
+  "version": "1.0.0",
+  "description": "js to extract strings of text from convoluted data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjackson1146/artisbest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjackson1146/artisbest/issues"
+  },
+  "homepage": "https://github.com/jjackson1146/artisbest#readme",
+  "dependencies": {
+    "csv": "^1.1.1",
+    "csv-parser": "^1.11.0"
+  }
+}
